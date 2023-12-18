@@ -37,6 +37,7 @@ The app provides a breakdown of carbon emissions in different categories, includ
 + The page title is set to "Personal Carbon Calculator."
 
 ## Contributing
+  Contributions are welcome! Feel free to open issues or submit pull requests.
 ## Installation
 1. Clone the repository:
    ```bash
