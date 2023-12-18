@@ -36,6 +36,7 @@ The app provides a breakdown of carbon emissions in different categories, includ
 + The app layout is designed to be wide for better user experience.
 + The page title is set to "Personal Carbon Calculator."
 
+## Contributing
 ## Installation
 1. Clone the repository:
    ```bash
@@ -48,4 +49,7 @@ The app provides a breakdown of carbon emissions in different categories, includ
    ```bash
    pip install -r requirements.txt
    ```
-   
+3. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
